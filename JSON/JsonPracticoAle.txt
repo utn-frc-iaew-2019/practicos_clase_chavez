@@ -1,0 +1,33 @@
+{
+  "alumno": "Chavez Alexa",
+ 
+ "legajo": 69470,
+  
+"carrera": "Ing. en Sistemas de Información",
+
+"materiasNotasFecha": [
+   
+ {
+  "Materia": "SOP",
+  
+    "notaFinal": 9,
+    
+    "fechaCursada": "22/03/19"
+ },
+ 
+ {
+ "Materia": "AED",
+  
+   "notaFinal": 7,
+      
+   "fechaCursada": 20180422
+    },
+    
+{
+  "Materia":"AGE",
+     
+   "notaFinal": 9,
+    
+   "fechaCursada": 20150222
+    }
+  ]
