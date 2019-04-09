@@ -1,4 +1,4 @@
-{
+[{
   "alumno": "Chavez Alexa",
  
  "legajo": 69470,
