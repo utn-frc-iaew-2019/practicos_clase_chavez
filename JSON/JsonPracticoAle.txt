@@ -3,7 +3,7 @@
  
  "legajo": 69470,
   
-"carrera": "Ing. en Sistemas de Información",
+"carrera": "Ing. en Sistemas de InformaciÃ³n",
 
 "materiasNotasFecha": [
    
